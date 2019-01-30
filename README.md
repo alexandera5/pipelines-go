@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/oleksandranosov/pipelines-101/_apis/build/status/alexandera5.pipelines-go?branchName=master)](https://dev.azure.com/oleksandranosov/pipelines-101/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
